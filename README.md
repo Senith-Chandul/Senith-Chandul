@@ -1,4 +1,4 @@
-### Hi there, I'm Senith Chandul [The Hackers MULTISPACE][https://thehackersmultispace.ga/] 👋
+### Hi there, I'm Senith Chandul 👋
 
 ## I'm a Student and somewhat a software Developer!!
 
