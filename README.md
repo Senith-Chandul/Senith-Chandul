@@ -43,4 +43,4 @@
 
 # MOST USED LANGUAGES
 
-![NOTICE](https://github-readme-stats.vercel.app/api/top-langs/?username=SenithChandul&theme=dark&show_icons=true)
+![NOTICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Senith-Chandul&theme=dark&show_icons=true)
