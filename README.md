@@ -7,7 +7,6 @@
 - 📚 I went to : Richmond College, Galle <br>
 - 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black) <br>
 - 🤔 I’m looking for help : For Me <br>
-- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
 - 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 ### My Github Status
