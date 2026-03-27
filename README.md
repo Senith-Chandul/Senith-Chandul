@@ -1,45 +1,44 @@
-### Hi there, I'm Senith Chandul 👋
+# Hi there, I'm Senith Chandul 👋 
 
-## I'm a Student and somewhat a software Developer!!
+### Full-Stack Developer | Python & React Enthusiast | Undergraduate Student
+Managing complex academic workflows and building scalable web solutions with a focus on clean code and Object-Oriented principles.
 
-- 🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰 <br>
-- 🔭 I’m currently working on : Senith.Org <br>
-- 📚 I went to : Richmond College, Galle <br>
-- 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black) <br>
-- 🤔 I’m looking for help : For Me <br>
-- 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+---
 
-### My Github Status
+## 🚀 About Me
+I am a results-driven developer currently focused on creating **Clovio**, an AI-powered platform designed to revolutionize how university students manage group projects. My expertise lies in bridging the gap between robust backend logic (Python) and intuitive, modern frontends (React).
 
-![Senith-Chandul's GitHub Status](https://github-readme-stats.vercel.app/api?username=Senith-Chandul&theme=dark&show_icons=true)
+- 🔭 **Current Focus:** Scaling "Clovio" while learning new languages and concepts.
+- 🌱 **Learning:** Advanced System Architecture and AI Integration.
+- 🏛 **Background:** Richmond College, Galle.
+- ⚡ **Philosophy:** "Code is poetry, but efficiency is the rhythm."
 
-- ![Profile views](https://gpvc.arturio.dev/Senith-Chandul)
+---
 
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Senith-Chandul&theme=alduin" alt="Senith-Chandul" /></a> </p>
+## 🛠 Technical Stack
 
-### Languages and Tools:
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Java (OOP), JavaScript (ES6+), Python, HTML5, CSS3 |
+| **Frontend** | React.js, Tailwind CSS, Material UI, Vite |
+| **Backend** | Node.js, Express, Firebase |
+| **Databases** | MySQL (EERD/Logical Design), PostgreSQL |
+| **Others** | Git, GitHub Actions, IoT (Arduino), Figma (UI/UX) |
 
-<p align ="left">
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-  <br>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+---
+
+## 📊 GitHub Analytics
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senith-Chandul&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senith-Chandul&layout=compact&theme=radical&hide_progress=false" />
 </p>
 
 ---
 
-# MOST USED LANGUAGES
-
-![NOTICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Senith-Chandul&theme=dark&show_icons=true)
+## 📫 Let's Connect
+- **Portfolio:** [senith.dev](https://senith.dev)
+- **LinkedIn:** [linkedin.com/in/senithchandul](https://linkedin.com/in/senithchandul) - **Email:** [Contact Me](mailto:senithchandul118@gmail.com) ---
+<p align="center">
+  <i>"Building the future, one commit at a time."</i>
+</p>
