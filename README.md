@@ -30,8 +30,8 @@ I am a results-driven developer currently focused on creating **Clovio**, an AI-
 ## 📊 GitHub Analytics
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senith-Chandul&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senith-Chandul&layout=compact&theme=radical&hide_progress=false" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Senith-Chandul&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Senith-Chandul&layout=compact&theme=radical&hide_progress=false" />
 </p>
 
 ---
